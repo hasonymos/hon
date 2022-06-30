@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Honestate Insurance, Software & Property Mgt!";
+		return "Honestate, Insurance, Software & Property Mgt!";
 	}
 
 }
